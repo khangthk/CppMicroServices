@@ -66,7 +66,7 @@ tinyscheme
 BSD-style license
 
 http://tinyscheme.sourceforge.net/home.html
-1.41
+1.42
 
 Patches
 
@@ -152,7 +152,7 @@ Google benchmark
 See https://github.com/google/benchmark/blob/master/LICENSE for license information
 
 https://github.com/google/benchmark
-4124223bf5303d1d65fe2c40f33e28372bbb986c
+12235e24652fc7f809373e7c11a5f73c5763fc4c
 
 Abseil (absl)
 -------------

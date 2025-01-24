@@ -93,6 +93,7 @@ set(_declarativeservices_tests
   TestFixture.hpp
   TestServiceComponentRuntime.cpp
   TestServiceProvider.cpp
+  TestServiceReferenceRetrieval.cpp
   TestSharedLibraryException.cpp
   TestUpdateConfiguration.cpp
   ImportTestBundles.cpp
@@ -174,6 +175,7 @@ set(_test_bundles
   TestBundleDSDGMU
   TestBundleDSDGOU
   TestBundleDSDRMU
+  TestBundleDSDRMU_userMethodStaticChecks
   TestBundleDSDROU
   TestBundleDSSLE1
   TestBundleDSSLE2
